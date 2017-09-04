@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <ID>1010</ID>
+    <Nombres>Allan Edrey</Nombres>
+    <Apellidos>Sanchez Rixtun</Apellidos>
+    <E_mail>asanchezrixtun@gmail.com</E_mail>
+    <Fecha_nacimiento>2017-08-31T17:17:58.4714556-06:00</Fecha_nacimiento>
+    <Salario>8000</Salario>
+  </Persona>
+  <Persona>
+    <ID>2010</ID>
+    <Nombres>Kevin Geovani</Nombres>
+    <Apellidos>Lima Sanchez</Apellidos>
+    <E_mail>limasan@hotmail.com</E_mail>
+    <Fecha_nacimiento>2017-08-08T17:17:58</Fecha_nacimiento>
+    <Salario>6000</Salario>
+  </Persona>
+  <Persona>
+    <ID>4010</ID>
+    <Nombres>Fatima</Nombres>
+    <Apellidos>Lemus</Apellidos>
+    <E_mail>fatipower@gmail.com</E_mail>
+    <Fecha_nacimiento>2017-08-25T17:20:03</Fecha_nacimiento>
+    <Salario>5000</Salario>
+  </Persona>
+  <Persona>
+    <ID>3010</ID>
+    <Nombres>Jasmin</Nombres>
+    <Apellidos>Morales</Apellidos>
+    <E_mail>morales@hotmail.com</E_mail>
+    <Fecha_nacimiento>2017-08-27T17:27:42</Fecha_nacimiento>
+    <Salario>4550</Salario>
+  </Persona>
+</ArrayOfPersona>
